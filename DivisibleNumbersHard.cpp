@@ -1,4 +1,8 @@
-/*This is an hard version of the problem. The only difference between an easy and a hard version is the constraints on 𝑎, 𝑏, 𝑐 and 𝑑.
+/*
+https://codeforces.com/contest/1744/problem/E2
+
+
+This is an hard version of the problem. The only difference between an easy and a hard version is the constraints on 𝑎, 𝑏, 𝑐 and 𝑑.
 
 You are given 4 positive integers 𝑎, 𝑏, 𝑐, 𝑑 with 𝑎<𝑐 and 𝑏<𝑑. Find any pair of numbers 𝑥 and 𝑦 that satisfies the following conditions:
 
