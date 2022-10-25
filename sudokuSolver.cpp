@@ -163,7 +163,7 @@ bool sudoku(int i , int j, vvi &board, int n)
     
   }
 
-  rep(k,1,10)
+  rep(k,1,n+1)
   {
     if(canPlace(k,i,j,board,n)){
 
