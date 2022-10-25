@@ -209,7 +209,7 @@ void solve()
   {
     rep(j,0,n)
     {
-      if(grid[i][j]!=0 && !canPlace(grid[i][j],i,j,grid,n))
+      if(grid[i][j]!=0 && ((grid[i][j]<1 || grid[i][j]>n) || !canPlace(grid[i][j],i,j,grid,n)))
       {
         canFlag=0;
         br;
